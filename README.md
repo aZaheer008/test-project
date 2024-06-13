@@ -2,7 +2,9 @@
 
 ## Description
 
-The test project of NestJS
+The test project of NestJS,
+As this is test-project that's why .env file not put in .gitignore
+and also fake user data implemented for just execution
 
 ## Installation
 
